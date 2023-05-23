@@ -1,0 +1,128 @@
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csprojAssemblyReference.cache
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.exe.config
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.FormCnxBdd.resources
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.Properties.Resources.resources
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.GenerateResource.cache
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CoreCompileInputs.cache
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe.config
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.pdb
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\MySql.Data.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\Google.Protobuf.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\ZstdNet.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\BouncyCastle.Crypto.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\Ubiety.Dns.Core.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\System.Buffers.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\K4os.Compression.LZ4.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\K4os.Hash.xxHash.dll
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.pdb
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\bin\Debug\MySql.Data.xml
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CopyComplete
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.exe
+E:\sio2\hubert\AP\gsb\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.FormCnxBdd.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.Properties.Resources.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.GenerateResource.cache
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CoreCompileInputs.cache
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.exe
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe.config
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\Ubiety.Dns.Core.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CopyComplete
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.AssemblyReference.cache
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Memory.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Numerics.Vectors.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Buffers.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe.config
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.pdb
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\Ubiety.Dns.Core.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Memory.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Numerics.Vectors.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Buffers.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.pdb
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.pdb
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.AssemblyReference.cache
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.FormCnxBdd.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.Properties.Resources.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.GenerateResource.cache
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CoreCompileInputs.cache
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CopyComplete
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.exe
+E:\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe.config
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioRibos.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\Ubiety.Dns.Core.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Memory.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Numerics.Vectors.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Buffers.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioRibos.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csprojResolveAssemblyReference.cache
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.FormCnxBdd.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.Properties.Resources.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.GenerateResource.cache
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CoreCompileInputs.cache
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CopyComplete
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.exe
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe.config
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioRibos.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\Ubiety.Dns.Core.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Memory.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Numerics.Vectors.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Buffers.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioRibos.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csprojResolveAssemblyReference.cache
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.FormCnxBdd.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.Properties.Resources.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.GenerateResource.cache
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CoreCompileInputs.cache
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CopyComplete
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.exe
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe.config
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.exe
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\ConnexionBdd.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioRibos.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\Ubiety.Dns.Core.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Memory.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Numerics.Vectors.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\System.Buffers.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioClasse.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\DBConnect.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\bin\Debug\BiblioRibos.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.AssemblyReference.cache
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.FormCnxBdd.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.Properties.Resources.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.GenerateResource.cache
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CoreCompileInputs.cache
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.csproj.CopyComplete
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.exe
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\ConnexionBdd\ConnexionBdd\obj\Debug\ConnexionBdd.pdb

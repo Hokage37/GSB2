@@ -1,0 +1,944 @@
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csprojResolveAssemblyReference.cache
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_Fichier.resources
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+c:\users\mautexier.v2-bts-sio\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb
+C:\Users\mautexier.V2-BTS-SIO\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAjouterVisiteurs.resources
+C:\Users\mautexier.V2-BTS-SIO\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+C:\Users\mautexier.V2-BTS-SIO\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+C:\Users\mautexier.V2-BTS-SIO\source\repos\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedecin.resources
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csprojResolveAssemblyReference.cache
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_Fichier.resources
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAjouterVisiteurs.resources
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedecin.resources
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.dll
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.pdb
+C:\Users\mautexier.V2-BTS-SIO\Documents\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CopyComplete
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_Fichier.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedecin.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CopyComplete
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.PopAjoutsMedecin.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MySql.Data.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Ubiety.Dns.Core.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe.config
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.pdb
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\ConnexionBdd.FrmCnxBdd.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csprojResolveAssemblyReference.cache
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_Fichier.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\ConnexionBdd.FrmCnxBdd.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedecin.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.PopAjoutsMedecin.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.dll
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.dll
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MySql.Data.dll
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Ubiety.Dns.Core.dll
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.pdb
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.pdb
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe.config
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.pdb
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CopyComplete
+D:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.connection.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.AssemblyReference.cache
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.connection.resources
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Memory.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Numerics.Vectors.dll
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Buffers.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BouncyCastle.Crypto.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MySql.Data.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Ubiety.Dns.Core.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Memory.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Numerics.Vectors.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Buffers.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.pdb
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.pdb
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe.config
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.pdb
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.xml
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.AssemblyReference.cache
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.connection.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_Fichier.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\ConnexionBdd.FrmCnxBdd.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.PopAjoutsMedecin.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CopyComplete
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe.config
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.AccueilLab.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.InscriptionRiboMembre.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmLecturePDF.resources
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\x86\leptonica-1.82.0.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\x86\tesseract50.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\x64\leptonica-1.82.0.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\x64\tesseract50.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\netstandard.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.AppContext.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Concurrent.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.NonGeneric.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Specialized.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.Primitives.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Console.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Data.Common.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Contracts.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Debug.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Process.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tools.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tracing.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Drawing.Primitives.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Dynamic.Runtime.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Calendars.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Extensions.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.IsolatedStorage.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Pipes.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Expressions.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Parallel.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Queryable.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Http.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NameResolution.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NetworkInformation.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Ping.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Primitives.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Requests.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Security.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Sockets.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.Client.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ObjectModel.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Extensions.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Primitives.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Reader.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.ResourceManager.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Writer.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Extensions.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Handles.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Numerics.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Claims.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Principal.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.SecureString.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.RegularExpressions.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Overlapped.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Thread.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.ThreadPool.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Timer.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ValueTuple.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.ReaderWriter.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XDocument.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlDocument.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlSerializer.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.xml
+E:\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.xml
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\x86\leptonica-1.82.0.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\x86\tesseract50.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\x64\leptonica-1.82.0.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\x64\tesseract50.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\netstandard.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.AppContext.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Concurrent.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.NonGeneric.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Specialized.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.Primitives.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Console.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Data.Common.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Contracts.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Debug.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Process.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tools.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tracing.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Drawing.Primitives.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Dynamic.Runtime.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Calendars.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Extensions.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.IsolatedStorage.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Pipes.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Expressions.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Parallel.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Queryable.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Http.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NameResolution.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NetworkInformation.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Ping.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Primitives.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Requests.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Security.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Sockets.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.Client.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ObjectModel.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Extensions.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Primitives.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Reader.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.ResourceManager.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Writer.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Extensions.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Handles.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Numerics.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Claims.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Principal.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.SecureString.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.RegularExpressions.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Overlapped.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Thread.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.ThreadPool.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Timer.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.ValueTuple.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.ReaderWriter.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XDocument.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlDocument.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlSerializer.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioRibos.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BouncyCastle.Crypto.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\MySql.Data.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Ubiety.Dns.Core.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Memory.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Numerics.Vectors.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\System.Buffers.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioRibos.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe.config
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.xml
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.xml
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.xml
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csprojResolveAssemblyReference.cache
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe.config
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.AccueilLab.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.InscriptionRiboMembre.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.connection.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_Fichier.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\ConnexionBdd.FrmCnxBdd.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmLecturePDF.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.PopAjoutsMedecin.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CopyComplete
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.FrmAddMedocs.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csprojResolveAssemblyReference.cache
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe.config
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.AccueilLab.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.FrmAddMedocs.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.InscriptionRiboMembre.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.connection.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_Fichier.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\ConnexionBdd.FrmCnxBdd.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmLecturePDF.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.PopAjoutsMedecin.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x86\leptonica-1.82.0.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x86\tesseract50.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x64\leptonica-1.82.0.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x64\tesseract50.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\netstandard.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.AppContext.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Concurrent.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.NonGeneric.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Specialized.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Console.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Data.Common.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Debug.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Process.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tools.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Drawing.Primitives.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Dynamic.Runtime.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Calendars.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Extensions.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Pipes.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Expressions.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Parallel.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Queryable.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Http.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NameResolution.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NetworkInformation.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Ping.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Primitives.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Requests.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Security.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Sockets.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ObjectModel.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Extensions.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Primitives.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Reader.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.ResourceManager.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Writer.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Extensions.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Handles.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Numerics.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Claims.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Principal.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.SecureString.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.RegularExpressions.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Overlapped.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Thread.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.ThreadPool.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Timer.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ValueTuple.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XDocument.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlDocument.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioRibos.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MySql.Data.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Ubiety.Dns.Core.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Memory.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Numerics.Vectors.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Buffers.dll
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioRibos.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\ConnexionBdd.exe.config
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.pdb
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.xml
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.xml
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.xml
+D:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CopyComplete
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x86\leptonica-1.82.0.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x86\tesseract50.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x64\leptonica-1.82.0.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x64\tesseract50.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\netstandard.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.AppContext.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Concurrent.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.NonGeneric.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Specialized.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.Primitives.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Console.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Data.Common.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Contracts.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Debug.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Process.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tools.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tracing.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Drawing.Primitives.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Dynamic.Runtime.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Calendars.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Extensions.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.IsolatedStorage.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Pipes.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Expressions.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Parallel.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Queryable.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Http.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NameResolution.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NetworkInformation.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Ping.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Primitives.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Requests.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Security.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Sockets.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.Client.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ObjectModel.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Extensions.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Primitives.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Reader.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.ResourceManager.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Writer.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Extensions.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Handles.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Numerics.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Claims.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Principal.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.SecureString.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.RegularExpressions.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Overlapped.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Thread.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.ThreadPool.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Timer.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ValueTuple.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.ReaderWriter.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XDocument.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlDocument.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlSerializer.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BouncyCastle.Crypto.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MySql.Data.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Ubiety.Dns.Core.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Memory.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Numerics.Vectors.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Buffers.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.xml
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.xml
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.xml
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.AssemblyReference.cache
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe.config
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.FrmAddMedocs.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.connection.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_Fichier.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\ConnexionBdd.FrmCnxBdd.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmLecturePDF.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.PopAjoutsMedecin.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CopyComplete
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAddVisiteur.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x86\tesseract50.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x64\tesseract50.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\netstandard.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.AppContext.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Console.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Data.Common.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Pipes.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Http.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Ping.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Primitives.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Requests.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Security.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Sockets.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ObjectModel.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Reader.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Writer.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Claims.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Principal.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.SecureString.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Thread.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Timer.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ValueTuple.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MySql.Data.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Memory.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Buffers.dll
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.pdb
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.pdb
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.xml
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.xml
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.xml
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.AssemblyReference.cache
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe.config
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAddVisiteur.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.FrmAddMedocs.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.connection.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\ConnexionBdd.FrmCnxBdd.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedecin.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CopyComplete
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmRapport.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAddMedecin.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAddRapport.resources
+C:\Users\Hokage\Desktop\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.FrmModifRapport.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x86\leptonica-1.82.0.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x86\tesseract50.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x64\leptonica-1.82.0.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\x64\tesseract50.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe.config
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.exe
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MainWindows.pdb
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\netstandard.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.AppContext.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Concurrent.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.NonGeneric.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Collections.Specialized.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Console.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Data.Common.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Debug.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Process.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tools.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Drawing.Primitives.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Dynamic.Runtime.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Calendars.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Globalization.Extensions.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.Pipes.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Expressions.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Parallel.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Linq.Queryable.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Http.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NameResolution.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.NetworkInformation.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Ping.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Primitives.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Requests.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Security.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.Sockets.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Net.WebSockets.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ObjectModel.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Extensions.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Reflection.Primitives.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Reader.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.ResourceManager.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Resources.Writer.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Extensions.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Handles.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Numerics.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Claims.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.Principal.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Security.SecureString.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Text.RegularExpressions.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Overlapped.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Thread.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.ThreadPool.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Threading.Timer.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.ValueTuple.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XDocument.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlDocument.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\MySql.Data.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Ubiety.Dns.Core.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Memory.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Numerics.Vectors.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\System.Buffers.dll
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\BiblioClasse.pdb
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\DBConnect.pdb
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\itextsharp.xml
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\SautinSoft.Document.xml
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\bin\Debug\Tesseract.xml
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csprojResolveAssemblyReference.cache
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe.config
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAddMedecin.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAddRapport.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAddVisiteur.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frm_main.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.FrmAddMedocs.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.connection.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\ConnexionBdd.FrmCnxBdd.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedecin.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmMedicaments.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.FrmModifRapport.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmRapport.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmVisiteurs.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.frmAccueil.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.Properties.Resources.resources
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.GenerateResource.cache
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CoreCompileInputs.cache
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.csproj.CopyComplete
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.exe
+D:\Projet_Fin_Année\taffgsb1\GSB_Projet_QMM (4)\GSB_Projet_QMM\MainWindows\obj\Debug\MainWindows.pdb

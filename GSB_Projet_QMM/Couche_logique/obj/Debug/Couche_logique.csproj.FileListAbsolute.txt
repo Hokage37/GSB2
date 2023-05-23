@@ -1,0 +1,2 @@
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\Couche_logique\obj\Debug\Couche_logique.csprojResolveAssemblyReference.cache
+F:\BTS LRF\vMaxime\vMaxime\GSB_Projet_QMM\Couche_logique\obj\Debug\Couche_logique.csproj.CoreCompileInputs.cache

@@ -1,0 +1,18 @@
+E:\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.csproj.AssemblyReference.cache
+E:\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.csproj.CoreCompileInputs.cache
+E:\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\bin\Debug\BiblioRibos.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\bin\Debug\BiblioRibos.pdb
+E:\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.dll
+E:\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\bin\Debug\BiblioRibos.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\bin\Debug\BiblioRibos.pdb
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.csprojResolveAssemblyReference.cache
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.csproj.CoreCompileInputs.cache
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.dll
+D:\transfer\vMaxime\vMaxime\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\BiblioRibos\bin\Debug\BiblioRibos.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\BiblioRibos\bin\Debug\BiblioRibos.pdb
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.csproj.AssemblyReference.cache
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.csproj.CoreCompileInputs.cache
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.dll
+G:\Projet_Fin_Année\GSB_Projet_QMM (4)\GSB_Projet_QMM\BiblioRibos\obj\Debug\BiblioRibos.pdb
